@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Data Analysis Project
 
 This project analyzes sales data using SQL to identify trends and patterns.
 
